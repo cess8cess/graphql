@@ -1,0 +1,146 @@
+{
+  "users": [
+    {
+      "id": 0,
+      "age": 25,
+      "name": "Peck Montoya",
+      "email": "cess8cess@gmail.com",
+      "friends": [
+        {
+          "id": 5
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "age": 25,
+      "name": "Onur",
+      "email": "cess8cess@gmail.com",
+      "friends": [
+        {
+          "id": 1
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "age": 25,
+      "name": "Sheena Madden",
+      "email": "cess8cess@gmail.com",
+      "friends": [
+        {
+          "id": 1
+        },
+        {
+          "id": 2
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "age": 22,
+      "name": "Shari Justice",
+      "email": "sharijustice@qualitex.com",
+      "friends": [
+        {
+          "id": 1
+        },
+        {
+          "id": 2
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "age": 25,
+      "name": "Eaton Horton",
+      "email": "cess8cess@gmail.com",
+      "friends": [
+        {
+          "id": 1
+        },
+        {
+          "id": 2
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "age": 25,
+      "name": "Lois Best",
+      "email": "cess8cess@gmail.com"
+    },
+    {
+      "id": 6,
+      "age": 25,
+      "name": "Schroeder Stafford",
+      "email": "cess8cess@gmail.com",
+      "friends": [
+        {
+          "id": 5
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "age": 33,
+      "name": "Hanson Collins",
+      "email": "hansoncollins@qualitex.com",
+      "friends": [
+        {
+          "id": 5
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "age": 21,
+      "name": "Walton York",
+      "email": "waltonyork@qualitex.com",
+      "friends": [
+        {
+          "id": 5
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "age": 38,
+      "name": "Walter Manning",
+      "email": "waltermanning@qualitex.com",
+      "friends": [
+        {
+          "id": 5
+        },
+        {
+          "id": 10
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "age": 26,
+      "name": "Carmen Butler",
+      "email": "carmenbutler@qualitex.com",
+      "friends": [
+        {
+          "id": 9
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "name": "Indigo Montoya",
+      "age": 31,
+      "email": "indigomontoya@gmail.com",
+      "friends": [
+        {
+          "id": 1
+        },
+        {
+          "id": 2
+        }
+      ]
+    }
+  ]
+}

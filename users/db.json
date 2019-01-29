@@ -1,0 +1,47 @@
+{
+  "users": [
+    {
+      "firstName": "Sinem Güfran",
+      "age": 34,
+      "id": "40"
+    },
+    {
+      "id": "41",
+      "firstName": "Haan",
+      "age": 34,
+      "companyId": "2"
+    },
+    {
+      "firstName": "Stephen",
+      "age": 28,
+      "id": "Rokmgff"
+    },
+    {
+      "firstName": "Mete",
+      "age": 6,
+      "id": "KuYBgPm"
+    }
+  ],
+  "companies": [
+    {
+      "id": "1",
+      "name": "Apple",
+      "description": "iphone"
+    },
+    {
+      "id": "2",
+      "name": "Google",
+      "description": "search"
+    },
+    {
+      "name": "Yandex",
+      "description": "Navigation",
+      "id": "~~1FpUc"
+    },
+    {
+      "name": "Microsoft",
+      "description": "Office",
+      "id": "u24AJ5d"
+    }
+  ]
+}
